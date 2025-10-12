@@ -33,6 +33,17 @@ function populatePersonalInfo(info) {
     const navLogo = document.querySelector('.nav__logo');
     if (navLogo) navLogo.textContent = info.name.split(' ')[0] + ' ' + info.name.split(' ')[1];
     
+    // Update profile images
+    const homeBlobImg = document.querySelector('.home__blob-img');
+    const aboutImg = document.querySelector('.about__img');
+    
+    if (homeBlobImg && info.profileImage) {
+        homeBlobImg.setAttribute('xlink:href', info.profileImage);
+    }
+    if (aboutImg && info.profileImage) {
+        aboutImg.setAttribute('src', info.profileImage);
+    }
+    
     // Update home section
     const homeTitle = document.querySelector('.home__title');
     const homeSubtitle = document.querySelector('.home__subtitle');
