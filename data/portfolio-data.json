@@ -1,0 +1,158 @@
+{
+  "personalInfo": {
+    "name": "Mohamed Salem Khyarhoum",
+    "title": "Programmer and Cybersecurity Enthusiast",
+    "description": "Passionate about creating efficient and secure systems with experience in programming, database management, and information security.",
+    "location": "Tunisia, Tunis",
+    "email": "mohamedsalemkhyarhoum@gmail.com",
+    "telegram": "@mosalemkh",
+    "profileImage": "assets/img/perfil.png",
+    "cv": "https://drive.google.com/file/d/1Zu0sGwjbF3FaL9ooJp7dbD1b4YucnfHJ/view?usp=drive_link",
+    "aboutDescription": "I'm a passionate programmer and cybersecurity enthusiast who enjoys building efficient software, designing secure systems, and exploring the world of databases and algorithms. My goal is to create solutions that are both innovative and reliable.",
+    "completedProjects": "7+"
+  },
+  "socialLinks": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mohamed-salem-kh/",
+      "icon": "uil uil-linkedin-alt"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/mohamedsalemkh",
+      "icon": "uil uil-twitter"
+    },
+    {
+      "name": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/22260095/mohamed-khyarhoum",
+      "icon": "fa fa-stack-overflow"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/0xkhyr",
+      "icon": "uil uil-github-alt"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@mohamedsalemkhyarhoum",
+      "icon": "uil uil-medium-m"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "icon": "uil uil-code-branch",
+      "subtitle": "Several years of experience",
+      "items": [
+        { "name": "Python", "level": 85 },
+        { "name": "Java", "level": 70 },
+        { "name": "C++", "level": 70 },
+        { "name": "C", "level": 60 },
+        { "name": "PHP", "level": 80 },
+        { "name": "Dart", "level": 75 }
+      ]
+    },
+    {
+      "category": "Technologies",
+      "icon": "uil uil-atom",
+      "subtitle": "Several years of experience",
+      "items": [
+        { "name": "Laravel", "level": 80 },
+        { "name": "Django", "level": 75 },
+        { "name": "Django REST Framework", "level": 70 },
+        { "name": "Bootstrap", "level": 80 },
+        { "name": "Flutter", "level": 85 }
+      ]
+    },
+    {
+      "category": "Database Systems",
+      "icon": "uil uil-database",
+      "subtitle": "Several years of experience",
+      "items": [
+        { "name": "MySQL", "level": 70 },
+        { "name": "Firebase", "level": 85 }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Engineer in Information Systems and Network Security",
+      "institution": "iTeam University",
+      "institutionUrl": "https://iteam-univ.tn/",
+      "period": "2024 - Present"
+    },
+    {
+      "title": "Software Development",
+      "institution": "ISCAE",
+      "institutionUrl": "https://iscae.mr/",
+      "period": "2021 - 2024"
+    }
+  ],
+  "work": [
+    {
+      "title": "Intern",
+      "company": "Syskat Technologie",
+      "companyUrl": "https://www.syskat.com",
+      "period": "Avril 2024 - Juin 2024"
+    },
+    {
+      "title": "Intern",
+      "company": "Syskat Technologie",
+      "companyUrl": "https://www.syskat.com",
+      "period": "Juillet 2023 - Août 2023"
+    }
+  ],
+  "expertise": [
+    {
+      "title": "Mobile Development",
+      "icon": "uil uil-apps",
+      "description": [
+        "I develop cross-platform mobile applications using Flutter, focusing on performance and user experience.",
+        "I integrate RESTful APIs to enhance mobile app functionality and improve data handling.",
+        "In the <strong>ProfsChezVous</strong> project, I contributed to the mobile app by creating intuitive interfaces for booking and managing tutoring sessions.",
+        "In <strong>ProfsChezVous</strong>, I helped implement features like user authentication, course management, and transaction tracking to ensure seamless tutoring experiences."
+      ]
+    },
+    {
+      "title": "Python & Automation",
+      "icon": "uil uil-robot",
+      "description": [
+        "In the <strong>ProfsChezVous</strong> project, I used Python to build the backend for administration purposes, handling features such as user management, session bookings, and payment processing.",
+        "Collaborated to create APIs in Python for seamless integration with the Flutter frontend, ensuring a smooth user experience on the platform."
+      ]
+    },
+    {
+      "title": "Web Development",
+      "icon": "uil uil-web-grid",
+      "description": [
+        "I build responsive and user-friendly websites using HTML, CSS, Bootstrap, and JavaScript.",
+        "Developed a <strong>School management</strong> system for managing student records, attendance, and grades efficiently.",
+        "Integrated backend features to optimize data handling and improve user interactions."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "ProfsChezVous",
+      "description": "A mobile app for booking tutoring sessions, developed with Flutter (frontend) and Django (backend).",
+      "image": "https://github.com/user-attachments/assets/889dfbcc-5f85-4c77-b477-84350906f933",
+      "url": "https://github.com/0xkhyr/ProfsChezVous"
+    },
+    {
+      "title": "School management",
+      "description": "A web app built with Laravel to simplify the management of school administrative processes.",
+      "image": "assets/img/gestionscolarite.png",
+      "url": "https://github.com/0xkhyr/Gestion-Scolarite"
+    },
+    {
+      "title": "EIR-Project",
+      "description": "EIR Project – Telecom IMEI Verification System RESTful API and modern web interface for managing and verifying IMEI numbers, built with FastAPI, PostgreSQL, Next.js, and Docker.",
+      "image": "https://github.com/user-attachments/assets/b83a0cb6-66e5-4e46-88dc-50b762b91280",
+      "url": "https://github.com/0xkhyr/eir-project"
+    }
+  ],
+  "contactForm": {
+    "action": "https://formspree.io/f/mzzzpbbp",
+    "recaptchaSiteKey": "6LeL6qEqAAAAAGiI6sW2DtsUJh3kZveeRSYHKdXv"
+  }
+}
