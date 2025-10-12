@@ -149,6 +149,12 @@
       "description": "EIR Project – Telecom IMEI Verification System RESTful API and modern web interface for managing and verifying IMEI numbers, built with FastAPI, PostgreSQL, Next.js, and Docker.",
       "image": "https://github.com/user-attachments/assets/b83a0cb6-66e5-4e46-88dc-50b762b91280",
       "url": "https://github.com/0xkhyr/eir-project"
+    },
+    {
+      "title": "iTeam University Event Management Platform",
+      "description": "The iTeam University Event Management Platform is a modern, full-featured web application designed to streamline campus event management and job placement activities.",
+      "image": "https://github.com/user-attachments/assets/c1d428a0-911d-4a8c-9d54-627eafc99ab7",
+      "url": "https://github.com/0xkhyr/iteam-university-events-website"
     }
   ],
   "contactForm": {
