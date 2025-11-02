@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with a **100% data-driven architecture**. All content is managed through a single JSON file, making updates quick and easy!
 
-🌐 **Live Demo**: [View Portfolio](https://yourusername.github.io/portfolio)
+🌐 **Live Demo**: [View Portfolio](https://mohamedsalemkh.me/)
 
 ---
 
