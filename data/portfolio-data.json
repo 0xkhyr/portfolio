@@ -30,7 +30,7 @@
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/0xkhyr",
+      "url": "https://github.com/khyrr",
       "icon": "uil uil-github-alt"
     },
     {
@@ -144,25 +144,25 @@
       "title": "ProfsChezVous",
       "description": "A mobile app for booking tutoring sessions, developed with Flutter (frontend) and Django (backend).",
       "image": "https://github.com/user-attachments/assets/889dfbcc-5f85-4c77-b477-84350906f933",
-      "url": "https://github.com/0xkhyr/ProfsChezVous"
+      "url": "https://github.com/yr/ProfsChezVous"
     },
     {
       "title": "School management",
       "description": "A web app built with Laravel to simplify the management of school administrative processes.",
       "image": "assets/img/gestionscolarite.png",
-      "url": "https://github.com/0xkhyr/Gestion-Scolarite"
+      "url": "https://github.com/khyrr/Gestion-Scolarite"
     },
     {
       "title": "EIR-Project",
       "description": "EIR Project – Telecom IMEI Verification System RESTful API and modern web interface for managing and verifying IMEI numbers, built with FastAPI, PostgreSQL, Next.js, and Docker.",
       "image": "https://github.com/user-attachments/assets/b83a0cb6-66e5-4e46-88dc-50b762b91280",
-      "url": "https://github.com/0xkhyr/eir-project"
+      "url": "https://github.com/khyrr/eir-project"
     },
     {
       "title": "iTeam University Event Management Platform",
       "description": "The iTeam University Event Management Platform is a modern, full-featured web application designed to streamline campus event management and job placement activities.",
       "image": "https://github.com/user-attachments/assets/c1d428a0-911d-4a8c-9d54-627eafc99ab7",
-      "url": "https://github.com/0xkhyr/iteam-university-events-website"
+      "url": "https://github.com/khyrr/iteam-university-events-website"
     }
   ],
   "contactForm": {
